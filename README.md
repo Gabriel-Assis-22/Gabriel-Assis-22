@@ -174,12 +174,12 @@ Desenvolvedor apaixonado por **aprender e inovar**, com um compromisso contínuo
 ### 📊 Estatísticas
 
 <img
-    height="120"
+    height="140"
     src="https://github-readme-stats.vercel.app/api?username=Gabriel-Assis-22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
 />
 <img
     alt="GitHub Stats"
-    height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Assis-22&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Assis-22&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
 
 </p>
