@@ -19,7 +19,7 @@ Desenvolvedor apaixonado por **aprender e inovar**, com um compromisso contínuo
 
 * **Linguagens:** Java, HTML, CSS, JavaScript, TypeScript, Python 
 * **Frameworks/Bibliotecas:** Spring (Boot), React, Next.js, Node.js
-* **Banco de Dados:** MySQL, SQL Server, SQLite, NoSQL
+* **Banco de Dados:** SQL Server, NoSQL
 * **Ferramentas:** Git, GitHub
 
 ---
